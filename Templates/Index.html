@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">
+      👾 Chat 👾
+    </div>
+    <div class="chat-messages" id="chatMessages"></div>
+    <div class="typing-indicator" id="typingIndicator" style="display: none;">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    <div class="chat-input">
+      <div class="reply-preview" id="replyPreview">
+        <span id="replyText"></span>
+        <span class="cancel-reply" id="cancelReply">✖</span>
+      </div>
+      <div class="input-row">
+        <input type="text" id="messageInput" placeholder="Escribe un mensaje...">
+        <button id="sendButton">➤</button>
+        <button class="photo-button" id="photoButton">📷</button>
+        <button class="vibrate-button">📳</button>
+        <input type="file" id="fileInput" class="file-input" accept="image/*">
+      </div>
+    </div>
+  </div>
+  <div class="fullscreen" id="fullscreen" style="display: none;">
+    <img id="fullscreenImage" src="" alt="Fullscreen">
+    <span class="close" id="closeFullscreen">✖</span>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,1591 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Arturo",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 130.68333333333334
+    },
+    {
+      "nombre": "Carlos",
+      "bloqueado": false,
+      "adeudo": 31.81,
+      "ganancia": 148.73083333333332
+    },
+    {
+      "nombre": "Edgar",
+      "bloqueado": false,
+      "adeudo": 30.590000000000003,
+      "ganancia": 30.769000000000002
+    },
+    {
+      "nombre": "Francisco",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 20.034
+    },
+    {
+      "nombre": "Irvin",
+      "bloqueado": false,
+      "adeudo": 42.8,
+      "ganancia": 85.11311111111112
+    },
+    {
+      "nombre": "Isac",
+      "bloqueado": false,
+      "adeudo": 79.5,
+      "ganancia": 74.14150000000001
+    },
+    {
+      "nombre": "Isrrael",
+      "bloqueado": false,
+      "adeudo": 18.56,
+      "ganancia": 68.69333333333334
+    },
+    {
+      "nombre": "Karen",
+      "bloqueado": false,
+      "adeudo": 5.34,
+      "ganancia": 127.91971428571428
+    },
+    {
+      "nombre": "Laura",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Marcos",
+      "bloqueado": false,
+      "adeudo": 61.13,
+      "ganancia": 147.92577777777774
+    },
+    {
+      "nombre": "Rafael",
+      "bloqueado": false,
+      "adeudo": 20.490000000000002,
+      "ganancia": 43.707499999999996
+    },
+    {
+      "nombre": "Vicente",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Externo",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    }
+  ],
+  "historialCompras": {
+    "Arturo": [
+      {
+        "producto": "Emperador Vainilla",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "8/1/2025, 8:52:13 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Cigarros Malvoro",
+        "piezas": 20,
+        "costoTotal": 118.6,
+        "fecha": "8/1/2025, 3:42:35 p.m.",
+        "ganancia": 39.49999999999999
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "9/1/2025, 2:45:47 p.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Emperador combinado",
+        "piezas": 1,
+        "costoTotal": 20.55,
+        "fecha": "10/1/2025, 8:54:02 a.m.",
+        "ganancia": 6.85
+      },
+      {
+        "producto": "Totopos hot chili totis",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "10/1/2025, 11:53:46 a.m.",
+        "ganancia": 4.85
+      },
+      {
+        "producto": "Papas picositas totis",
+        "piezas": 1,
+        "costoTotal": 20.7,
+        "fecha": "10/1/2025, 11:53:46 a.m.",
+        "ganancia": 6.903333333333332
+      },
+      {
+        "producto": "Papas saladas totis",
+        "piezas": 1,
+        "costoTotal": 21.05,
+        "fecha": "10/1/2025, 11:53:46 a.m.",
+        "ganancia": 7.0166666666666675
+      },
+      {
+        "producto": "Cigarros Malvoro",
+        "piezas": 20,
+        "costoTotal": 118.6,
+        "fecha": "10/1/2025, 5:37:00 p.m.",
+        "ganancia": 39.49999999999999
+      },
+      {
+        "producto": "Polvorones",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "13/1/2025, 8:45:58 a.m.",
+        "ganancia": 10.436666666666667
+      }
+    ],
+    "Carlos": [
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "7/1/2025, 1:14:28 p.m.",
+        "ganancia": 23.7875
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "7/1/2025, 1:14:28 p.m.",
+        "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 3,
+        "costoTotal": 16.02,
+        "fecha": "7/1/2025, 1:14:28 p.m.",
+        "ganancia": 5.347499999999999
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 1:16:48 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "7/1/2025, 1:25:46 p.m.",
+        "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "7/1/2025, 4:04:18 p.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "8/1/2025, 2:45:38 p.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "8/1/2025, 2:45:38 p.m.",
+        "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "8/1/2025, 2:47:37 p.m.",
+        "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "8/1/2025, 5:33:13 p.m.",
+        "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "9/1/2025, 11:01:42 a.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 2,
+        "costoTotal": 42.26,
+        "fecha": "9/1/2025, 2:45:25 p.m.",
+        "ganancia": 14.09333333333333
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "9/1/2025, 5:24:51 p.m.",
+        "ganancia": 23.7875
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "10/1/2025, 5:58:47 p.m.",
+        "ganancia": 23.7875
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 9:28:49 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "13/1/2025, 1:18:02 p.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 1:19:27 p.m.",
+        "ganancia": 1.7824999999999998
+      }
+    ],
+    "Edgar": [
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "7/1/2025, 1:23:09 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Papas saladas totis",
+        "piezas": 1,
+        "costoTotal": 21.05,
+        "fecha": "7/1/2025, 3:52:28 p.m.",
+        "ganancia": 7.0166666666666675
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "9/1/2025, 5:27:02 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "9/1/2025, 5:27:02 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "10/1/2025, 9:18:56 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Galletas Marias",
+        "piezas": 1,
+        "costoTotal": 19.1,
+        "fecha": "13/1/2025, 9:16:56 a.m.",
+        "ganancia": 6.366666666666667
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "13/1/2025, 1:17:08 p.m.",
+        "ganancia": 3.8320000000000007
+      }
+    ],
+    "Francisco": [
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 2,
+        "costoTotal": 37.12,
+        "fecha": "7/1/2025, 3:59:21 p.m.",
+        "ganancia": 12.369999999999997
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 2,
+        "costoTotal": 22.98,
+        "fecha": "9/1/2025, 9:47:24 a.m.",
+        "ganancia": 7.6640000000000015
+      }
+    ],
+    "Irvin": [
+      {
+        "producto": "Churros con ajonjoli",
+        "piezas": 1,
+        "costoTotal": 90.72,
+        "fecha": "7/1/2025, 1:03:10 p.m.",
+        "ganancia": 30.23666666666667
+      },
+      {
+        "producto": "Papas saladas totis",
+        "piezas": 1,
+        "costoTotal": 21.05,
+        "fecha": "7/1/2025, 1:03:10 p.m.",
+        "ganancia": 7.0166666666666675
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 4,
+        "costoTotal": 33.12,
+        "fecha": "7/1/2025, 1:04:27 p.m.",
+        "ganancia": 11.031111111111109
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "8/1/2025, 8:51:30 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "8/1/2025, 2:46:52 p.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "8/1/2025, 5:32:18 p.m.",
+        "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "10/1/2025, 9:19:07 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Polvorones",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "13/1/2025, 9:16:44 a.m.",
+        "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "13/1/2025, 1:16:43 p.m.",
+        "ganancia": 3.8320000000000007
+      }
+    ],
+    "Isac": [
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "8/1/2025, 8:51:10 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "8/1/2025, 8:51:45 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "8/1/2025, 2:46:24 p.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "8/1/2025, 2:46:24 p.m.",
+        "ganancia": 1.6749999999999994
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "8/1/2025, 5:30:25 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "8/1/2025, 5:30:25 p.m.",
+        "ganancia": 1.6749999999999994
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 3,
+        "costoTotal": 15.059999999999999,
+        "fecha": "9/1/2025, 8:36:22 a.m.",
+        "ganancia": 5.024999999999999
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "9/1/2025, 5:26:16 p.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Emperador Vainilla",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "10/1/2025, 8:54:35 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Galletas Marias",
+        "piezas": 1,
+        "costoTotal": 19.1,
+        "fecha": "13/1/2025, 9:17:18 a.m.",
+        "ganancia": 6.366666666666667
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "13/1/2025, 9:29:47 a.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "13/1/2025, 10:19:24 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "13/1/2025, 1:16:56 p.m.",
+        "ganancia": 3.8320000000000007
+      }
+    ],
+    "Isrrael": [
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "8/1/2025, 3:19:52 p.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 2,
+        "costoTotal": 19.2,
+        "fecha": "8/1/2025, 5:31:15 p.m.",
+        "ganancia": 6.399999999999999
+      },
+      {
+        "producto": "Churros con ajonjoli",
+        "piezas": 1,
+        "costoTotal": 90.72,
+        "fecha": "8/1/2025, 5:33:44 p.m.",
+        "ganancia": 30.23666666666667
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "8/1/2025, 5:49:05 p.m.",
+        "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "9/1/2025, 5:25:55 p.m.",
+        "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Papas saladas totis",
+        "piezas": 1,
+        "costoTotal": 21.05,
+        "fecha": "10/1/2025, 5:26:46 p.m.",
+        "ganancia": 7.0166666666666675
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "13/1/2025, 1:15:00 p.m.",
+        "ganancia": 6.184999999999999
+      }
+    ],
+    "Karen": [
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "7/1/2025, 2:13:59 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 2,
+        "costoTotal": 19.2,
+        "fecha": "7/1/2025, 2:13:59 p.m.",
+        "ganancia": 6.399999999999999
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "7/1/2025, 4:00:36 p.m.",
+        "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 4:00:36 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "7/1/2025, 4:00:36 p.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Cigarros Malvoro",
+        "piezas": 20,
+        "costoTotal": 118.6,
+        "fecha": "8/1/2025, 3:43:05 p.m.",
+        "ganancia": 39.49999999999999
+      },
+      {
+        "producto": "Emperador combinado",
+        "piezas": 1,
+        "costoTotal": 20.55,
+        "fecha": "9/1/2025, 8:41:23 a.m.",
+        "ganancia": 6.85
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "9/1/2025, 2:44:53 p.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "9/1/2025, 2:44:53 p.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Emperador Vainilla",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "10/1/2025, 8:54:19 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Papas picositas totis",
+        "piezas": 1,
+        "costoTotal": 20.7,
+        "fecha": "10/1/2025, 11:15:36 a.m.",
+        "ganancia": 6.903333333333332
+      },
+      {
+        "producto": "Chicles canels",
+        "piezas": 2,
+        "costoTotal": 2.02,
+        "fecha": "10/1/2025, 6:00:01 p.m.",
+        "ganancia": 0.6799999999999999
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 2,
+        "costoTotal": 31.12,
+        "fecha": "10/1/2025, 6:00:02 p.m.",
+        "ganancia": 10.37714285714286
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 1:15:27 p.m.",
+        "ganancia": 1.7824999999999998
+      }
+    ],
+    "Laura": [],
+    "Marcos": [
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "7/1/2025, 1:19:09 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 1:19:09 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "7/1/2025, 1:25:11 p.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "7/1/2025, 1:25:11 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Salsa Botanera",
+        "piezas": 1,
+        "costoTotal": 49.35,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 16.450000000000003
+      },
+      {
+        "producto": "Salsa Valentina",
+        "piezas": 1,
+        "costoTotal": 47.25,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 15.75
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "8/1/2025, 8:52:32 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "8/1/2025, 2:49:37 p.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "8/1/2025, 2:49:37 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 2,
+        "costoTotal": 10.68,
+        "fecha": "8/1/2025, 2:49:37 p.m.",
+        "ganancia": 3.5649999999999995
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "8/1/2025, 5:31:51 p.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "8/1/2025, 5:31:51 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Emperador combinado",
+        "piezas": 1,
+        "costoTotal": 20.55,
+        "fecha": "9/1/2025, 8:33:59 a.m.",
+        "ganancia": 6.85
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "9/1/2025, 10:56:59 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "9/1/2025, 11:02:55 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "9/1/2025, 11:02:55 a.m.",
+        "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Galletas Canelitas",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "10/1/2025, 8:54:56 a.m.",
+        "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "10/1/2025, 11:07:39 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "10/1/2025, 11:07:39 a.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "13/1/2025, 8:42:47 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "13/1/2025, 8:42:47 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 8:42:47 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 8:42:47 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "13/1/2025, 1:16:20 p.m.",
+        "ganancia": 3.8320000000000007
+      }
+    ],
+    "Rafael": [
+      {
+        "producto": "Papas picositas totis",
+        "piezas": 1,
+        "costoTotal": 20.7,
+        "fecha": "7/1/2025, 1:03:56 p.m.",
+        "ganancia": 6.903333333333332
+      },
+      {
+        "producto": "Totopos hot chili totis",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "7/1/2025, 1:03:56 p.m.",
+        "ganancia": 4.85
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "10/1/2025, 11:07:21 a.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "10/1/2025, 11:07:21 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 9:29:28 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "13/1/2025, 9:29:28 a.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "13/1/2025, 10:19:10 a.m.",
+        "ganancia": 6.827499999999999
+      }
+    ],
+    "Vicente": [],
+    "Externo": []
+  },
+  "productos": [
+    {
+      "codigo": "7506192505451",
+      "descripcion": "Vive 100 Original",
+      "precioCompra": 12.38,
+      "precioVenta": 18.56,
+      "piezas": 18,
+      "stockParciales": [
+        {
+          "cantidad": 18,
+          "costoUnitario": 12.375
+        }
+      ]
+    },
+    {
+      "codigo": "7506192510295",
+      "descripcion": "Vive 100 Blueberry",
+      "precioCompra": 13.66,
+      "precioVenta": 20.49,
+      "piezas": 14,
+      "stockParciales": [
+        {
+          "cantidad": 14,
+          "costoUnitario": 13.6625
+        }
+      ]
+    },
+    {
+      "codigo": "75071295",
+      "descripcion": "Cigarros Pall Mall",
+      "precioCompra": 3.35,
+      "precioVenta": 5.02,
+      "piezas": 95,
+      "stockParciales": [
+        {
+          "cantidad": 95,
+          "costoUnitario": 3.345
+        }
+      ]
+    },
+    {
+      "codigo": "75078843",
+      "descripcion": "Cigarros Shots",
+      "precioCompra": 1.91,
+      "precioVenta": 2.86,
+      "piezas": 125,
+      "stockParciales": [
+        {
+          "cantidad": 125,
+          "costoUnitario": 1.9084999999999999
+        }
+      ]
+    },
+    {
+      "codigo": "75001322",
+      "descripcion": "Cigarros Malvoro",
+      "precioCompra": 3.96,
+      "precioVenta": 5.93,
+      "piezas": 40,
+      "stockParciales": [
+        {
+          "cantidad": 40,
+          "costoUnitario": 3.955
+        }
+      ]
+    },
+    {
+      "codigo": "041789001987",
+      "descripcion": "Maruchan chile pikin",
+      "precioCompra": 14.08,
+      "precioVenta": 21.13,
+      "piezas": 14,
+      "stockParciales": [
+        {
+          "cantidad": 14,
+          "costoUnitario": 14.083333333333334
+        }
+      ]
+    },
+    {
+      "codigo": "7500366003811",
+      "descripcion": "Totis mix",
+      "precioCompra": 7.66,
+      "precioVenta": 11.49,
+      "piezas": 37,
+      "stockParciales": [
+        {
+          "cantidad": 37,
+          "costoUnitario": 7.6579999999999995
+        }
+      ]
+    },
+    {
+      "codigo": "7502217370028",
+      "descripcion": "Churros con ajonjoli",
+      "precioCompra": 60.48,
+      "precioVenta": 90.72,
+      "piezas": 1,
+      "stockParciales": [
+        {
+          "cantidad": 1,
+          "costoUnitario": 60.48333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022519",
+      "descripcion": "Emperador Vainilla",
+      "precioCompra": 12.31,
+      "precioVenta": 18.47,
+      "piezas": 0,
+      "stockParciales": []
+    },
+    {
+      "codigo": "7500478022540",
+      "descripcion": "Emperador Nuez",
+      "precioCompra": 12.31,
+      "precioVenta": 18.47,
+      "piezas": 0,
+      "stockParciales": []
+    },
+    {
+      "codigo": "7500478022496",
+      "descripcion": "Emperador chocolate",
+      "precioCompra": 12.31,
+      "precioVenta": 18.47,
+      "piezas": 0,
+      "stockParciales": []
+    },
+    {
+      "codigo": "7500478021581",
+      "descripcion": "Emperador combinado",
+      "precioCompra": 13.7,
+      "precioVenta": 20.55,
+      "piezas": 0,
+      "stockParciales": []
+    },
+    {
+      "codigo": "7501059242920",
+      "descripcion": "Chocolate Tin Larin",
+      "precioCompra": 6.4,
+      "precioVenta": 9.6,
+      "piezas": 0,
+      "stockParciales": []
+    },
+    {
+      "codigo": "7500478010592",
+      "descripcion": "Galletas Marias",
+      "precioCompra": 12.73,
+      "precioVenta": 19.1,
+      "piezas": 1,
+      "stockParciales": [
+        {
+          "cantidad": 1,
+          "costoUnitario": 12.733333333333334
+        }
+      ]
+    },
+    {
+      "codigo": "038629002068",
+      "descripcion": "Galletas Marianitas Coco",
+      "precioCompra": 10.1,
+      "precioVenta": 15.15,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.1
+        }
+      ]
+    },
+    {
+      "codigo": "7501030490937",
+      "descripcion": "Galletas Canelitas",
+      "precioCompra": 20.87,
+      "precioVenta": 31.31,
+      "piezas": 2,
+      "stockParciales": [
+        {
+          "cantidad": 2,
+          "costoUnitario": 20.87333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "7501006559019",
+      "descripcion": "Palomitas de mantequilla",
+      "precioCompra": 10.37,
+      "precioVenta": 15.56,
+      "piezas": 11,
+      "stockParciales": [
+        {
+          "cantidad": 11,
+          "costoUnitario": 10.37142857142857
+        }
+      ]
+    },
+    {
+      "codigo": "7501030490920",
+      "descripcion": "Polvorones",
+      "precioCompra": 20.87,
+      "precioVenta": 31.31,
+      "piezas": 1,
+      "stockParciales": [
+        {
+          "cantidad": 1,
+          "costoUnitario": 20.87333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "038629002075",
+      "descripcion": "Galletas Marianistas Naranja",
+      "precioCompra": 10.1,
+      "precioVenta": 15.15,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.1
+        }
+      ]
+    },
+    {
+      "codigo": "038629002716",
+      "descripcion": "Galletas Marianistas Vainilla",
+      "precioCompra": 10.1,
+      "precioVenta": 15.15,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.1
+        }
+      ]
+    },
+    {
+      "codigo": "038629003225",
+      "descripcion": "Galletas Marianistas Chocolate",
+      "precioCompra": 10.1,
+      "precioVenta": 15.15,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.1
+        }
+      ]
+    },
+    {
+      "codigo": "703885005244",
+      "descripcion": "Zumba goma Mora Azul",
+      "precioCompra": 3.56,
+      "precioVenta": 5.34,
+      "piezas": 8,
+      "stockParciales": [
+        {
+          "cantidad": 8,
+          "costoUnitario": 3.5575
+        }
+      ]
+    },
+    {
+      "codigo": "703885005268",
+      "descripcion": "Zumba goma Fresa",
+      "precioCompra": 3.56,
+      "precioVenta": 5.34,
+      "piezas": 16,
+      "stockParciales": [
+        {
+          "cantidad": 16,
+          "costoUnitario": 3.5575
+        }
+      ]
+    },
+    {
+      "codigo": "703885005251",
+      "descripcion": "Zumba goma Sandia",
+      "precioCompra": 3.56,
+      "precioVenta": 5.34,
+      "piezas": 14,
+      "stockParciales": [
+        {
+          "cantidad": 14,
+          "costoUnitario": 3.5575
+        }
+      ]
+    },
+    {
+      "codigo": "7503030374552",
+      "descripcion": "Paletas de Tarrito",
+      "precioCompra": 1.63,
+      "precioVenta": 2.45,
+      "piezas": 40,
+      "stockParciales": [
+        {
+          "cantidad": 40,
+          "costoUnitario": 1.6300000000000001
+        }
+      ]
+    },
+    {
+      "codigo": "719886250330",
+      "descripcion": "Paleta Peloneta",
+      "precioCompra": 3.77,
+      "precioVenta": 5.65,
+      "piezas": 15,
+      "stockParciales": [
+        {
+          "cantidad": 15,
+          "costoUnitario": 3.7666666666666666
+        }
+      ]
+    },
+    {
+      "codigo": "7501011145566",
+      "descripcion": "Paleta Rocaleta",
+      "precioCompra": 5.52,
+      "precioVenta": 8.28,
+      "piezas": 13,
+      "stockParciales": [
+        {
+          "cantidad": 13,
+          "costoUnitario": 5.522222222222222
+        }
+      ]
+    },
+    {
+      "codigo": "7501056903190",
+      "descripcion": "Paleta Búbalo Xtreme",
+      "precioCompra": 3.6,
+      "precioVenta": 5.39,
+      "piezas": 20,
+      "stockParciales": [
+        {
+          "cantidad": 20,
+          "costoUnitario": 3.595
+        }
+      ]
+    },
+    {
+      "codigo": "7500366003941",
+      "descripcion": "Papas saladas totis",
+      "precioCompra": 14.03,
+      "precioVenta": 21.05,
+      "piezas": 2,
+      "stockParciales": [
+        {
+          "cantidad": 2,
+          "costoUnitario": 14.033333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "018804002106",
+      "descripcion": "Chicles canels",
+      "precioCompra": 0.67,
+      "precioVenta": 1.01,
+      "piezas": 58,
+      "stockParciales": [
+        {
+          "cantidad": 58,
+          "costoUnitario": 0.67
+        }
+      ]
+    },
+    {
+      "codigo": "7500478037810",
+      "descripcion": "Papas picositas totis",
+      "precioCompra": 13.8,
+      "precioVenta": 20.7,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 13.796666666666667
+        }
+      ]
+    },
+    {
+      "codigo": "7500366004221",
+      "descripcion": "Totopos hot chili totis",
+      "precioCompra": 9.7,
+      "precioVenta": 14.55,
+      "piezas": 4,
+      "stockParciales": [
+        {
+          "cantidad": 4,
+          "costoUnitario": 9.700000000000001
+        }
+      ]
+    },
+    {
+      "codigo": "744886405053",
+      "descripcion": "Jarritos tutifruti",
+      "precioCompra": 18.95,
+      "precioVenta": 28.42,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 18.95
+        }
+      ]
+    },
+    {
+      "codigo": "744886375059",
+      "descripcion": "Jarritos mandarina",
+      "precioCompra": 18.95,
+      "precioVenta": 28.42,
+      "piezas": 5,
+      "stockParciales": [
+        {
+          "cantidad": 5,
+          "costoUnitario": 18.95
+        }
+      ]
+    },
+    {
+      "codigo": "097339000030",
+      "descripcion": "Salsa Valentina",
+      "precioCompra": 31.5,
+      "precioVenta": 47.25,
+      "piezas": 0,
+      "stockParciales": []
+    },
+    {
+      "codigo": "738545010016",
+      "descripcion": "Salsa Botanera",
+      "precioCompra": 32.9,
+      "precioVenta": 49.35,
+      "piezas": 0,
+      "stockParciales": []
+    }
+  ],
+  "historialEntradas": [
+    {
+      "producto": "Vive 100 Original",
+      "cantidad": 24,
+      "costoTotal": 297,
+      "fecha": "7/1/2025, 12:08:10 p.m."
+    },
+    {
+      "producto": "Vive 100 Blueberry",
+      "cantidad": 24,
+      "costoTotal": 327.9,
+      "fecha": "7/1/2025, 12:10:00 p.m."
+    },
+    {
+      "producto": "Cigarros Pall Mall",
+      "cantidad": 100,
+      "costoTotal": 334.5,
+      "fecha": "7/1/2025, 12:11:56 p.m."
+    },
+    {
+      "producto": "Cigarros Shots",
+      "cantidad": 200,
+      "costoTotal": 381.7,
+      "fecha": "7/1/2025, 12:13:36 p.m."
+    },
+    {
+      "producto": "Cigarros Malvoro",
+      "cantidad": 100,
+      "costoTotal": 395.5,
+      "fecha": "7/1/2025, 12:14:51 p.m."
+    },
+    {
+      "producto": "Maruchan chile pikin",
+      "cantidad": 24,
+      "costoTotal": 338,
+      "fecha": "7/1/2025, 12:16:16 p.m."
+    },
+    {
+      "producto": "Totis mix",
+      "cantidad": 50,
+      "costoTotal": 382.9,
+      "fecha": "7/1/2025, 12:21:16 p.m."
+    },
+    {
+      "producto": "Churros con ajonjoli",
+      "cantidad": 3,
+      "costoTotal": 181.45,
+      "fecha": "7/1/2025, 12:22:36 p.m."
+    },
+    {
+      "producto": "Emperador Vainilla",
+      "cantidad": 3,
+      "costoTotal": 36.94,
+      "fecha": "7/1/2025, 12:24:45 p.m."
+    },
+    {
+      "producto": "Emperador Nuez",
+      "cantidad": 3,
+      "costoTotal": 36.94,
+      "fecha": "7/1/2025, 12:25:34 p.m."
+    },
+    {
+      "producto": "Emperador chocolate",
+      "cantidad": 3,
+      "costoTotal": 36.94,
+      "fecha": "7/1/2025, 12:26:13 p.m."
+    },
+    {
+      "producto": "Emperador combinado",
+      "cantidad": 3,
+      "costoTotal": 41.1,
+      "fecha": "7/1/2025, 12:27:34 p.m."
+    },
+    {
+      "producto": "Chocolate Tin Larin",
+      "cantidad": 10,
+      "costoTotal": 64,
+      "fecha": "7/1/2025, 12:28:59 p.m."
+    },
+    {
+      "producto": "Galletas Marias",
+      "cantidad": 3,
+      "costoTotal": 38.2,
+      "fecha": "7/1/2025, 12:30:52 p.m."
+    },
+    {
+      "producto": "Galletas Marianitas Coco",
+      "cantidad": 3,
+      "costoTotal": 30.3,
+      "fecha": "7/1/2025, 12:32:29 p.m."
+    },
+    {
+      "producto": "Galletas Canelitas",
+      "cantidad": 3,
+      "costoTotal": 62.62,
+      "fecha": "7/1/2025, 12:34:00 p.m."
+    },
+    {
+      "producto": "Palomitas de mantequilla",
+      "cantidad": 14,
+      "costoTotal": 145.2,
+      "fecha": "7/1/2025, 12:35:32 p.m."
+    },
+    {
+      "producto": "Polvorones",
+      "cantidad": 3,
+      "costoTotal": 62.62,
+      "fecha": "7/1/2025, 12:37:00 p.m."
+    },
+    {
+      "producto": "Galletas Marianistas Naranja",
+      "cantidad": 3,
+      "costoTotal": 30.3,
+      "fecha": "7/1/2025, 12:38:15 p.m."
+    },
+    {
+      "producto": "Galletas Marianistas Vainilla",
+      "cantidad": 3,
+      "costoTotal": 30.3,
+      "fecha": "7/1/2025, 12:38:54 p.m."
+    },
+    {
+      "producto": "Galletas Marianistas Chocolate",
+      "cantidad": 3,
+      "costoTotal": 30.3,
+      "fecha": "7/1/2025, 12:39:30 p.m."
+    },
+    {
+      "producto": "Zumba goma Mora Azul",
+      "cantidad": 20,
+      "costoTotal": 71.15,
+      "fecha": "7/1/2025, 12:41:26 p.m."
+    },
+    {
+      "producto": "Zumba goma Fresa",
+      "cantidad": 20,
+      "costoTotal": 71.15,
+      "fecha": "7/1/2025, 12:42:10 p.m."
+    },
+    {
+      "producto": "Zumba goma Sandia",
+      "cantidad": 20,
+      "costoTotal": 71.15,
+      "fecha": "7/1/2025, 12:43:01 p.m."
+    },
+    {
+      "producto": "Paletas de Tarrito",
+      "cantidad": 40,
+      "costoTotal": 65.2,
+      "fecha": "7/1/2025, 12:44:35 p.m."
+    },
+    {
+      "producto": "Paleta Peloneta",
+      "cantidad": 18,
+      "costoTotal": 67.8,
+      "fecha": "7/1/2025, 12:45:39 p.m."
+    },
+    {
+      "producto": "Paleta Rocaleta",
+      "cantidad": 18,
+      "costoTotal": 99.4,
+      "fecha": "7/1/2025, 12:46:42 p.m."
+    },
+    {
+      "producto": "Paleta Búbalo Xtreme",
+      "cantidad": 20,
+      "costoTotal": 71.9,
+      "fecha": "7/1/2025, 12:48:20 p.m."
+    },
+    {
+      "producto": "Papas saladas totis",
+      "cantidad": 6,
+      "costoTotal": 84.2,
+      "fecha": "7/1/2025, 12:50:42 p.m."
+    },
+    {
+      "producto": "Chicles canels",
+      "cantidad": 60,
+      "costoTotal": 40.2,
+      "fecha": "7/1/2025, 12:51:49 p.m."
+    },
+    {
+      "producto": "Papas picositas totis",
+      "cantidad": 6,
+      "costoTotal": 82.78,
+      "fecha": "7/1/2025, 12:53:15 p.m."
+    },
+    {
+      "producto": "Totopos hot chili totis",
+      "cantidad": 6,
+      "costoTotal": 58.2,
+      "fecha": "7/1/2025, 12:55:22 p.m."
+    },
+    {
+      "producto": "Jarritos tutifruti",
+      "cantidad": 8,
+      "costoTotal": 151.6,
+      "fecha": "7/1/2025, 12:56:29 p.m."
+    },
+    {
+      "producto": "Jarritos mandarina",
+      "cantidad": 8,
+      "costoTotal": 151.6,
+      "fecha": "7/1/2025, 12:57:06 p.m."
+    },
+    {
+      "producto": "Salsa Valentina",
+      "cantidad": 1,
+      "costoTotal": 31.5,
+      "fecha": "7/1/2025, 12:57:56 p.m."
+    },
+    {
+      "producto": "Salsa Botanera",
+      "cantidad": 1,
+      "costoTotal": 32.9,
+      "fecha": "7/1/2025, 12:58:37 p.m."
+    }
+  ],
+  "numInversionistas": 12,
+  "totalInversion": 6000,
+  "gastoEnProductos": 4435.4400000000005,
+  "inversionRecuperada": 1755.951896825395,
+  "gananciasTotales": 877.7181031746031
+}

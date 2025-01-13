@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 31.81,
-      "ganancia": 148.73083333333332
+      "adeudo": 43.3,
+      "ganancia": 152.56283333333332
     },
     {
       "nombre": "Edgar",
@@ -21,8 +21,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 20.034
+      "adeudo": 11.49,
+      "ganancia": 23.866
     },
     {
       "nombre": "Irvin",
@@ -264,6 +264,13 @@
         "costoTotal": 5.34,
         "fecha": "13/1/2025, 1:19:27 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "13/1/2025, 1:24:50 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Edgar": [
@@ -331,6 +338,13 @@
         "costoTotal": 22.98,
         "fecha": "9/1/2025, 9:47:24 a.m.",
         "ganancia": 7.6640000000000015
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "13/1/2025, 1:25:27 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Irvin": [
@@ -1021,10 +1035,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 36,
+      "piezas": 34,
       "stockParciales": [
         {
-          "cantidad": 36,
+          "cantidad": 34,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -1593,6 +1607,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1763.6098968253948,
-  "gananciasTotales": 881.5501031746031
+  "inversionRecuperada": 1778.9258968253946,
+  "gananciasTotales": 889.2141031746031
 }

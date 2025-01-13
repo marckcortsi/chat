@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 43.3,
-      "ganancia": 152.56283333333332
+      "adeudo": 71.72,
+      "ganancia": 162.03283333333331
     },
     {
       "nombre": "Edgar",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 16.83,
-      "ganancia": 131.75171428571429
+      "adeudo": 48.809999999999995,
+      "ganancia": 142.41121428571427
     },
     {
       "nombre": "Laura",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 61.13,
-      "ganancia": 147.92577777777774
+      "adeudo": 124.42,
+      "ganancia": 169.0307777777777
     },
     {
       "nombre": "Rafael",
@@ -271,6 +271,13 @@
         "costoTotal": 11.49,
         "fecha": "13/1/2025, 1:24:50 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "13/1/2025, 1:30:54 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Edgar": [
@@ -696,6 +703,20 @@
         "costoTotal": 11.49,
         "fecha": "13/1/2025, 1:23:10 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "13/1/2025, 1:29:30 p.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "13/1/2025, 1:31:47 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Laura": [],
@@ -895,6 +916,41 @@
         "costoTotal": 11.49,
         "fecha": "13/1/2025, 1:16:20 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "13/1/2025, 1:33:44 p.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "13/1/2025, 1:33:44 p.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 2,
+        "costoTotal": 10.68,
+        "fecha": "13/1/2025, 1:33:44 p.m.",
+        "ganancia": 3.5649999999999995
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 1:33:44 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "13/1/2025, 1:33:44 p.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Rafael": [
@@ -970,10 +1026,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 14,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 12,
           "costoUnitario": 13.6625
         }
       ]
@@ -1022,10 +1078,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 14.083333333333334
         }
       ]
@@ -1035,10 +1091,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 34,
+      "piezas": 33,
       "stockParciales": [
         {
-          "cantidad": 34,
+          "cantidad": 33,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -1205,10 +1261,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 3.5575
         }
       ]
@@ -1231,10 +1287,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 3.5575
         }
       ]
@@ -1257,10 +1313,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -1348,10 +1404,10 @@
       "descripcion": "Jarritos tutifruti",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 18.95
         }
       ]
@@ -1607,6 +1663,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1778.9258968253946,
-  "gananciasTotales": 889.2141031746031
+  "inversionRecuperada": 1861.3813968253942,
+  "gananciasTotales": 930.4486031746031
 }

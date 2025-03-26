@@ -4,12 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chat App</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="Templates/styles.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
   <div class="chat-container">
     <div class="chat-header">
-      👾 Chat 👾
+      CHAT
     </div>
     <div class="chat-messages" id="chatMessages"></div>
     <div class="typing-indicator" id="typingIndicator" style="display: none;">
@@ -18,9 +19,9 @@
       <span></span>
     </div>
     <div class="chat-input">
-      <div class="reply-preview" id="replyPreview">
+      <div class="reply-preview" id="replyPreview" style="display: none;">
         <span id="replyText"></span>
-        <span class="cancel-reply" id="cancelReply">✖</span>
+        <button id="cancelReply">✖</button>
       </div>
       <div class="input-row">
         <input type="text" id="messageInput" placeholder="Escribe un mensaje...">
@@ -35,6 +36,7 @@
     <img id="fullscreenImage" src="" alt="Fullscreen">
     <span class="close" id="closeFullscreen">✖</span>
   </div>
-  <script src="script.js"></script>
+  <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
